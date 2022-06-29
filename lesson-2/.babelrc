@@ -1,0 +1,6 @@
+{
+    "present":[
+        "@babel/present-env",
+        "@babel/present-react"
+    ]
+}
